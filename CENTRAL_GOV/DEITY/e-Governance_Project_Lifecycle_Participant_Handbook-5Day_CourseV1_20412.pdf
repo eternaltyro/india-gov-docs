@@ -1,0 +1,2162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xml:lang="en"
+	lang="en"
+	dir="ltr">
+	 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>What's New | Government of India, Department of Electronics and Information Technology (DeitY)</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="dit, mit, department of information technology" />
+<link rel="shortcut icon" href="/sites/upload_files/dit/files/dit_favicon_3.ico" type="image/x-icon" />
+
+
+<link href="/sites/deity.gov.in/themes/dit/css/green/inner-standard.css" rel="stylesheet" type="text/css" />
+<link href="/sites/deity.gov.in/themes/dit/css/inner-global.css" rel="stylesheet" type="text/css" />
+<link href="/sites/deity.gov.in/themes/dit/css/print.css" rel="stylesheet" media="print" type="text/css" />
+<style type="text/css" media="screen">
+	html, body{
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+        ;
+				}
+</style>
+<!--[if lt IE 7]><link href="/sites/deity.gov.in/themes/dit/css/ie-fix.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 7]><link href="/sites/deity.gov.in/themes/dit/css/ie7-fix.css" rel="stylesheet" type="text/css" /><![endif]--> <link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/views/css/views.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/cck/theme/content-module.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/ctools/css/ctools.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/date/date.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/date/date_popup/themes/datepicker.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/date/date_popup/themes/timeentry.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/filefield/filefield.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/nice_menus/nice_menus.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/nice_menus/nice_menus_default.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/nice_menus/node/node.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/panels/css/panels.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/deity.gov.in/modules/cck/modules/fieldgroup/fieldgroup.css?9" />
+ <script type="text/javascript" src="/misc/jquery.js?9"></script>
+<script type="text/javascript" src="/misc/drupal.js?9"></script>
+<script type="text/javascript" src="/sites/deity.gov.in/modules/nice_menus/nice_menus.js?9"></script>
+<script type="text/javascript" src="/sites/deity.gov.in/modules/panels/js/panels.js?9"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+	
+	<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57479742-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	
+<script type="text/javascript"	src="http://goisas.nic.in/content/scripts/javaScripts/custom_result_jsversion.js"></script>
+
+<script type="text/javascript"
+	src="http://goisas.nic.in/content/scripts/javaScripts/auto_jsversion.js"></script>
+<link type="text/css"
+	href="http://goisas.nic.in/content/scripts/jquery.1.8.7/themes/base/jquery.ui.all.css"
+	rel="stylesheet" />
+	<script type="text/javascript">
+        var currentKey = 0;
+        settings = new Array();
+        settings["searchServer"] = "http://goisas.nic.in";
+        settings["textBoxId"] = "q";
+        settings["callBackFunction"] = "callBack";
+        loadSuggestionControls(settings);
+
+        function callBack() {
+                settings["q"] = document.getElementById('search_key').value;
+                settings["count"] = "10";
+                settings["site"] = "deity.gov.in";
+                loadResultControls(settings);
+        }
+
+        settings = new Array();
+        settings["searchServer"] = "http://goisas.nic.in";
+        settings["textBoxId"] = "search_key";
+        settings["site"] = "deity.gov.in";
+        settings["q"] = "";
+        loadResultControls(settings);
+
+        function modifySettings(key1) {
+                if (document.getElementById('search_key').value != null) {
+                        settings[key1] = document.getElementById('search_key').value;
+                        settings["count"] = "10";
+                        settings["site"] = "deity.gov.in";
+                        loadResultControls(settings);
+                }
+        hideAutoComplete();
+        }
+
+
+</script>
+
+	<link rel="stylesheet" type="text/css"
+		href="/sites/deity.gov.in/themes/dit/css/demoStyleSheet.css" />
+	<link rel="stylesheet" type="text/css"
+		href="/sites/deity.gov.in/themes/dit/css/esdm_style.css" />
+<link type="text/css"
+		href="/sites/deity.gov.in/themes/dit/css/green/high.css" rel="alternate stylesheet" media="screen" title="change" />		
+		
+		
+	
+	
+</head>
+
+<body >
+<div class="acc-links">
+			<div class="top-skip">
+				<div id="toplinks_home">
+					
+<ul>
+<li class="noborder"><a href="#MainContent" title="Skip to main content">Skip to main content</a></li>
+<li><a href="#navigation" title="Skip to navigation">Skip to navigation</a></li>
+<li><a href="/content/accessibility-options" title="Accessibility Options">Accessibility Options</a></li>
+
+<li><a href="/content/screen-reader-access" title="Screen Reader">Screen Reader</a></li>
+<li><a href="/content/glossary" title="Glossary">Glossary</a></li>
+<li><a href="/content/Abbreviations" title="Abbreviations">Abbreviations</a></li>
+
+<li  class="last-theme"><a class="alert language-link"  target="_blank" href="http://deity.gov.in/hindi" title="Hindi Website will open in new Window" >
+<img src="/sites/deity.gov.in/themes/dit/images/button-hindi.jpg" alt="Hindi"  /></a></li>
+
+<li>
+<a target="_blank" onclick="return externallink();" href="https://www.facebook.com/deityindia" title="Facebook">
+<img  class="border-zero" alt="Facebook" src="/sites/deity.gov.in/themes/dit/images/facebook-icon.png" />
+</a>
+</li>
+
+<li class="noborder">
+<a target="_blank" onclick="return externallink();" href="https://twitter.com/GoI_DeitY" title="Twitter">
+<img  class="border-zero" alt="Twitter" src="/sites/deity.gov.in/themes/dit/images/twiteer-icon.png"  />
+</a>
+</li>
+
+</ul>
+				</div>
+				<!-- toplinks ends here -->
+				<div class="imgLinks-inner">
+					
+				</div>
+			</div>
+			<div class="clear"> </div>
+			</div>
+	<div class="clear">  </div>
+	<div id="header-wrapper">
+		<div id="header-container">
+
+
+			<div id="logo-home">
+			<h1>
+				<a href="/"
+					title="Home" rel="home"><img
+					src="/sites/deity.gov.in/themes/dit/images/logo1.png"
+					alt="Home : Department of Electronics and Information Technology, Ministry of Communications &amp; Information Technology, Government of India" /> </a>
+			</h1>
+			</div>
+
+			<!--div id="title-home">
+				<a href="< ? php print $front_page; ? >  "
+					title="Department of Electronics and Information Technology, Ministry of Communications &amp; Information Technology, Government of India ">
+					
+				</a>
+			</div-->
+			<div id="search-home">
+				<form name="searchForm" action="/goisearch" accept-charset="UTF-8">
+        <label for="search_key">Search</label>  
+        <input type="text" name="search_key" id="search_key" onkeyup="autoComplete()" class="input-search"/>
+        <input type="submit" alt="" class="button12" name="Search" value="Search" onclick="submitfrm();" src="/sites/mitcms.nic.in/themes/dit/images/spacer.gif" style="width:20px;height:21px;" />
+        <div id="auto_suggesion"></div>
+</form>
+
+
+			</div>
+
+
+			<div id="logo"></div>
+
+		</div>
+	</div>
+	<div id='header_menu'>
+	<div id="block-nice_menus-1" class="clear-block block block-nice_menus">
+
+
+  <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-1"><li id="menu-1271" class="menu-path-front"><a href="/" title="Home">Home</a></li>
+<li id="menu-1363" class="menuparent menu-path-node-21"><a href="/content/about-dit" title="About DeitY">About DeitY</a><ul><li id="menu-1371" class="menu-path-node-1184"><a href="/content/vision-mission" title="Vision &amp; Mission">Vision &amp; Mission</a></li>
+<li id="menu-1372" class="menu-path-node-1230"><a href="/content/organization-chart" title="Organization Chart">Organization Chart</a></li>
+<li id="menu-1373" class="menu-path-node-1182"><a href="/content/functions-deit" title="Functions of Department of Electronics and Information Technology">Functions of Department of Electronics and Information Technology</a></li>
+<li id="menu-1374" class="menu-path-node-543"><a href="/content/people-and-offices" title="Who&#039;s Who">Who&#039;s Who</a></li>
+<li id="menu-1376" class="menu-path-node-634"><a href="/content/official-language-activities" title="Official Language Activities">Official Language Activities</a></li>
+<li id="menu-1377" class="menu-path-node-1229"><a href="/content/citizens-charter" title="Citizens&#039; Charter">Citizens&#039; Charter</a></li>
+<li id="menu-1378" class="menu-path-node-1231"><a href="/content/vigilance-grievances" title="Vigilance &amp; Grievances">Vigilance &amp; Grievances</a></li>
+<li id="menu-1379" class="menu-path-node-1397"><a href="/content/performance-management" title="Performance Management">Performance Management</a></li>
+<li id="menu-1380" class="menu-path-node-1454"><a href="/content/integrated-finances" title="Integrated Finances">Integrated Finances</a></li>
+<li id="menu-328" class="menu-path-node-565"><a href="/content/acts-policies" title="Acts &amp; Policies">Acts &amp; Policies</a></li>
+<li id="menu-1381" class="menu-path-node-1982"><a href="/content/controller-accounts" title="Controller of Accounts">Controller of Accounts</a></li>
+<li id="menu-1478" class="menu-path-node-2330"><a href="/content/immovable-property-return" title="Immovable Property Return">Immovable Property Return</a></li>
+<li id="menu-1382" class="menu-path-node-2373"><a href="/content/web-information-manager" title="Web Information Manager">Web Information Manager</a></li>
+</ul>
+</li>
+<li id="menu-1364" class="menu-path-node-2357"><a href="/content/know_your_minister" title="Know Your Minister">Know Your Minister</a></li>
+<li id="menu-1365" class="menuparent menu-path-node-2312"><a href="/esdm/msme" title="Divisions">Divisions</a><ul><li id="menu-1419" class="menu-path-node-1245"><a href="/esdm" title="Electronic System Design and Manufacturing (ESDM)">Electronic System Design and Manufacturing (ESDM)</a></li>
+<li id="menu-1385" class="menu-path-node-23"><a href="/content/electronics-it-industry" title="IT/ITeS">IT/ITeS</a></li>
+<li id="menu-1386" class="menu-path-node-8"><a href="/content/e-governance" title="e-Governance">e-Governance</a></li>
+<li id="menu-1387" class="menu-path-node-60"><a href="/content/cyber-laws-security" title="Cyber Laws &amp; E-Security">Cyber Laws &amp; E-Security</a></li>
+<li id="menu-1388" class="menu-path-node-78"><a href="/content/e-infrastructure" title="Infrastructure &amp; Governance">Infrastructure &amp; Governance</a></li>
+<li id="menu-1389" class="menu-path-node-1099"><a href="/content/economic-planning" title="Economic Planning">Economic Planning</a></li>
+<li id="menu-1390" class="menu-path-node-92"><a href="/content/hrd-e-learning" title="HRD/Knowledge Management">HRD/Knowledge Management</a></li>
+<li id="menu-1391" class="menu-path-node-94"><a href="/content/research-development" title="Research &amp; Development">Research &amp; Development</a></li>
+<li id="menu-1392" class="menu-path-node-99"><a href="/content/international-co-operation" title="International Co-operation">International Co-operation</a></li>
+<li id="menu-1393" class="menu-path-164.100.40.18-parliament-"><a href="http://164.100.40.18/parliament/" title="Parliament Matters">Parliament Matters</a></li>
+<li id="menu-1394" class="menu-path-node-97"><a href="/content/trade-investment" title="Trade &amp; Investment ">Trade &amp; Investment </a></li>
+</ul>
+</li>
+<li id="menu-1366" class="menuparent menu-path-node-95"><a href="/content/dit-organisations" title="Organisations">Organisations</a><ul><li id="menu-1395" class="menu-path-www.nic.in-"><a href="http://www.nic.in/" title="NIC">NIC</a></li>
+<li id="menu-1396" class="menu-path-www.stqc.gov.in-"><a href="http://www.stqc.gov.in/" title="STQC">STQC</a></li>
+<li id="menu-1397" class="menu-path-cca.gov.in-cca-index.php"><a href="http://cca.gov.in/cca/index.php" title="CCA">CCA</a></li>
+<li id="menu-1398" class="menu-path-catindia.gov.in-Default.aspx"><a href="http://catindia.gov.in/Default.aspx" title="CAT">CAT</a></li>
+<li id="menu-1399" class="menu-path-www.cert-in.org.in-"><a href="http://www.cert-in.org.in/" title="ICERT">ICERT</a></li>
+<li id="menu-1400" class="menu-path-sicldr.gov.in-"><a href="http://sicldr.gov.in/" title="SICLDR">SICLDR</a></li>
+<li id="menu-1401" class="menu-path-www.medialabasia.in"><a href="http://www.medialabasia.in" title="Media Lab Asia">Media Lab Asia</a></li>
+<li id="menu-1402" class="menu-path-www.nixi.in"><a href="http://www.nixi.in" title="NIXI">NIXI</a></li>
+<li id="menu-1403" class="menu-path-www.registry.in-"><a href="http://www.registry.in/" title=".in Registry">.in Registry</a></li>
+<li id="menu-1404" class="menu-path-cdac.in-"><a href="http://cdac.in/" title="C-DAC">C-DAC</a></li>
+<li id="menu-1405" class="menu-path-cmet.gov.in-index.html"><a href="http://cmet.gov.in/index.html" title="C-MET">C-MET</a></li>
+<li id="menu-1406" class="menu-path-www.ernet.in-"><a href="http://www.ernet.in/" title="ERNET">ERNET</a></li>
+<li id="menu-1408" class="menu-path-www.nicsi.com-"><a href="http://www.nicsi.com/" title="NICSI">NICSI</a></li>
+<li id="menu-1409" class="menu-path-www.nielit.in-"><a href="http://www.nielit.in/" title="NIELIT (Formerly DOEACC Society)">NIELIT (Formerly DOEACC Society)</a></li>
+<li id="menu-1410" class="menu-path-www.sameer.gov.in-"><a href="http://www.sameer.gov.in/" title="SAMEER">SAMEER</a></li>
+<li id="menu-1411" class="menu-path-www.stpi.in"><a href="http://www.stpi.in" title="STPI">STPI</a></li>
+</ul>
+</li>
+<li id="menu-1367" class="menu-path-node-1244"><a href="/content/right-information" title="Right to Information">RTI</a></li>
+<li id="menu-1368" class="menu-path-node-374"><a href="/content/tenders" title="Tenders">Tenders</a></li>
+<li id="menu-1369" class="menu-path-node-1201"><a href="/content/downloads" title="Downloads">Downloads</a></li>
+<li id="menu-1370" class="menu-path-evisitors.nic.in-"><a href="http://evisitors.nic.in/" title="Visitor Pass">Visitor Pass</a></li>
+</ul>
+</div>
+</div>
+	
+	</div>
+	<!--header ends here-->
+		<div class="clear"></div>
+		<!-- header-inner ends here -->
+		<!-- wrapper starts here -->
+		<div id="wrapper" class="clearfix">
+		<div id="container">
+		<div id="right-inner">
+		<!--toplinks starts here -->
+		<!-- right-links1-inner starts here -->
+			<div id="right-links1-inner">
+				<a id="navigation" name="navigation"></a>
+				<!--h2 class="hidethis">Global Navigation</h2-->
+				<ul class="menu">
+<li class="leaf first "><a href="/content/right-links2" title="Important Links"><img width="283" height="48" src="/sites/upload_files/dit/files/internal-page-img/important-links.jpg" alt="Important Links" /></a></li>
+<li class="leaf"><a href="/whatsnew" title="Public Opinion"><img width="283" height="48" src="/sites/upload_files/dit/files/internal-page-img/whats-new.jpg" alt="Whats New" /></a></li>
+<li class="leaf"><a href="/blog" title="Public Opinion"><img width="283" height="48" src="/sites/upload_files/dit/files/internal-page-img/public-opinion.jpg" alt="Public Opinion" /></a></li>
+<li class="leaf last"><a  target="_blank" href="http://pgportal.gov.in/" title="Public Grievance"><img width="283" height="48" src="/sites/upload_files/dit/files/internal-page-img/public-information.jpg" alt="Public Grievance" /></a></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;<a href="http://india.gov.in" target="_blank"> <img src="/sites/upload_files/dit/files/images/banner3.jpg" width="182" height="57" alt="https://www.india.gov.in" /> </a></p>
+			</div>
+						<!-- right-links1-inner ends here -->
+			<div id="imgBox">
+				
+					<div class="view view-banners-right view-id-banners_right view-display-id-default view-dom-id-2">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div> 				
+			</div>
+		<!--defaultmbanner ends-->
+		</div>
+		<div id="content-area">
+			<div id="breadcrum">
+			<div class="breadcrumb"><a href="/">Home</a></div>			</div>
+											<div id="print">
+					<a href="/print/" target="_blank" title="Print This Page">Print<span class="hidethis"> This Page</span></a>
+				</div>
+					<!--main starts here-->
+		<div id="main">
+		<div class="page-title-inner">
+		 <h2>What's New</h2>		 </div>
+		 <div class="inner-page">
+		<a id="MainContent" name="MainContent"></a>
+						
+<div class="view view-whatsnew view-id-whatsnew view-display-id-page_1 view-dom-id-1">
+    
+  
+  
+      <div>
+       <ul>
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP for NEBPS-28.08.pdf" target="_blank">Request For Proposal (RFP) of North East BPO Promotion Scheme (NEBPS) for next round of bidding- (28.08.2015 to 30.09.2015</a>			        				 (667.16 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/NEBPS admin Apprv.pdf" target="_blank">Amendment-III to the Administrative Approval of North East BPO Promotion Scheme (NEBPS)</a>			        				 (70.84 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/NEBPS consolidated App.pdf" target="_blank">Consolidated Adminstrative Approval of North East BPO Promotion Scheme (NEBPS) as on 06.08.2015</a>			        				 (515.49 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP_for_Event_Booth_Management_Agency11.pdf" target="_blank">Request for Proposal (RFP) for Selection of Event-Booth Management Agency</a>			        				 (414.64 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/design-and-expressions-interest-transfer-technology-tot-wideband-rf-amplifier">Expressions of interest for the Transfer of Technology (ToT) for wideband RF Amplifier</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in//sites/upload_files/dit/files/Gazette Notification for Extn upto 01 Dec_ 15.pdf" target="_blank">Extension till 1st December 2015 for Implementation of Compulsory Registration Order for select Products included in Schedule of Gazette notified on 13.11.2014</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/sites/upload_files/dit/files/EOI_IBPS_list.pdf" target="_blank">Invitation for Expression of Interest (EOI) For Implementation of India BPO Promotion Scheme (IBPS) August 2015</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/CIRCULAR SR GM & GM _0.pdf" target="_blank">Filling up position of Middle Management (Sr.GM/GM) in NeGD</a>			        				 (841.4 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Revised_SeriesGuidelines_R4_01stSep2015.pdf" target="_blank">Revised Guidelines for Series Approval of Products for Implementation of CRO - Phase II</a>			        				 (415.41 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/awareness-programme-environmental-hazards-electronic-waste">Awareness Programme on Environmental Hazards of Electronic Waste - amendment reg.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.nvsp.in/" target="_blank">National Voters&#039; Service Portal</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/digital-india-book" target="_blank">DIGITAL INDIA Book (Special Edition)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Sameer-Advt.pdf" target="_blank">Filling up of  the post of Director SAMEER</a>			        				 (902.65 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/sites/upload_files/dit/files/CIRCULAR_negd.pdf" target="_blank">Filling up position in NeGD</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP_Social_Media_IN_Registry.pdf" target="_blank">Request for Proposal (RFP) for Selection of Social Media Agency by NIXI</a>			        				 (837.56 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/awareness-programme-environmental-hazards-electronic-waste">Awareness Programme on Environmental Hazards of Electronic Waste - amendment  reg.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/activities-and-achievements-of-mcit" target="_blank">Ministry of Communications and IT: One Year of Activities &amp; Achievements</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/sites/upload_files/dit/files/List_of_Labs_approved_under_Scheme.pdf" target="_blank">List of Labs approved under &quot;Scheme for setting up/ up-gradation of Electronics Product testing/ Quality Control Laboratories&quot;</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/sites/upload_files/dit/files/Clarifications_on_EOI.pdf" target="_blank">Clarifications on Queries regarding EOI and Extension of date on Submission of Response to EOI</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Open_APIs_19May2015.pdf" target="_blank">Policy on Open Application Programming Interfaces for Government of India</a>			        				 (60.49 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/sites/upload_files/dit/files/notice_for_iigf.pdf" target="_blank">Walk-in Interview of various post in IIGF                       (In continuation of the Walk-in Interview held on 16.5.2015)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/e-kranti">Approved Approach and Key Components of e-Kranti</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Extension order.pdf" target="_blank">Extension Order for Implementation of Compulsory Registration Order for Products included in Schedule of Gazette notified on 13.11.2014</a>			        				 (456.29 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/awareness-programme-environmental-hazards-electronic-waste">Awareness Programme on Environmental Hazards of Electronic Waste</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advt_for_CCA .pdf" target="_blank">Filling up the post of Controller of Certifying Authorities</a>			        				 (107.42 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advt_DG(NIC).pdf" target="_blank">Filling up the post of Director General, National Informatics Centre (NIC)</a>			        				 (170.34 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/sites/upload_files/dit/files/Draft_RFE_MessagingCampaign_DIW_ApprovedDocument.pdf" target="_blank">Request for Empanelment (RFE) of Agencies for Messaging Campaign for Digital India Week</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Final_Framework for Adoption of OSS.pdf" target="_blank">Framework for adoption of OSS in e-Governance applications</a>			        				 (1.36 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Guidelines_IIGF_recruitment- ).pdf" target="_blank">Walk in Interview for recruiting staff on Contract Basis for India Internet Governance Forum (IIGF) on 16.05.2015</a>			        				 (188.36 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/sites/upload_files/dit/files/RFE_of_Digital_Media.pdf" target="_blank">Request for Empanelment (RFE) of Digital Media and Gamification Agencies for Digital India Program</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Final_NEBPS- RFP_17-04-15_0.pdf" target="_blank">RFP for North East BPO Prmotion Scheme(NEBPS)</a>			        				 (722.77 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://evisitors.nic.in/" target="_blank">eVisitor System implemented in DeitY</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Compliance_of_Plug_Configurations.pdf" target="_blank">Letter to BIS &amp; Consumer Affairs for Compliance of Plug Configurations to IS 1293:2005</a>			        				 ( bytes) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/advt_admin_exec.jpg" target="_blank">Filling up of the post of Senior Accountant &amp; Executive (Admin) at NIELIT</a>			        				 (63.22 KB) <img src="/sites/upload_files/dit/files/images/icons/image-x-generic.png" class="field-icon-'.image/jpeg.'" alt="image/jpeg file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFE-Printing- Merchandise Agencies for Digital India Program.pdf" target="_blank">Request for Empanelment (RFE) of Printing and Merchandise Agencies for Digital India Program</a>			        				 (825.3 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Revised-Draft-IoT-Policy_0.pdf" target="_blank">Revised Draft Internet of Things(IoT) Policy</a>			        				 (285.28 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/policy_government_application.pdf" target="_blank">Collaborative Application Development by Opening the Source Code of Government Applications</a>			        				 (760.27 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/sites/upload_files/dit/files/Guidelines_for_register.pdf" target="_blank">Approved Guidelines for registration in Gov.in domain</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/sites/upload_files/dit/files/policy_on_adoption_of_oss.pdf" target="_blank">Policy on Adoption of Open Source Software for Government of India</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Handbook_of_Information_HQ_0.pdf" target="_blank">Handbook of Information: Applicant guidelines for submission of items for testing under Compulsory Registration Scheme CRO II</a>			        				 (215.06 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/EoI_F_Eelctronic.pdf" target="_blank">Expression of Interest</a>			        				 (301.99 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Letter_11.03.2015_Revised Dates.pdf" target="_blank">2nd Extension_Revised timelines of proposal submission</a>			        				 (657.35 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/chairperson_CAT_0.pdf" target="_blank">Filling up of the post of Chairperson, Cyber Appellate Tribunal (CAT), Last Date to apply: 20th April 2015</a>			        				 (967.85 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/DG_0.pdf" target="_blank">Filling up of the post of the Director General, Indian Computer Emergency Response Team (DG, ICERT) (The last date of receipt of application will be the 13th April, 2015(Monday))</a>			        				 (786.08 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Draft Criteria_0.pdf" target="_blank">Comments Invited - Draft Criteria for Registration of Brand Owner instead of Manufacturing Units</a>			        				 (65.68 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Ad_for_DG_STQC.pdf" target="_blank">Filling up the post of Director General,STQC(Standardization, Testing and Quality Certification) Directorate.</a>			        				 (174.71 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://cdac.in/index.aspx?id=dl_balsahara-tot-eoi" target="_blank">Call for Expression of Interest for Transfer of Technology of Balsahara</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://cdac.in/index.aspx?id=dl_mkavach-tot-eoi" target="_blank">Call for Expression of Interest for Transfer of Technology of mKavach – Mobile Device Security Solution</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.ict-ipr.in/sipeit/" target="_blank">Support for International Patent Protection in Electronics &amp; Information Technology</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/other-projects-initiatives" target="_blank">NII EFC Memo &amp; Note</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Request for Proposal for Selection of Creative and Media Agency for MyGov_0.pdf" target="_blank">RFP Ref No. MyGov/01-04/2015 for Selection of Creative and Media Agency</a>			        				 (1.94 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/AADHAR_Enabled_Bio-metric_Attendance_System.pdf" target="_blank">Introduction of AADHAR Enabled Bio-metric Attendance System</a>			        				 (676.97 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://rti.gov.in/ebook/index.html" target="_blank">e-Book on Achievements of M/o Personnel, Public Grievances &amp; Pensions</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/EOI for Analytics Solution for MyGov_0.pdf" target="_blank">EOI No. MyGov/01-02/2015 for selection of Analytics solution for MyGov (Pre-Bid Meeting is scheduled at 4:00PM (IST) on 14th Jan, 2015 at NIC, CGO Complex, New Delhi.)</a>			        				 (847.21 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/circular_for__internship.pdf" target="_blank">Constitution of Selection Committee for Internship 2014</a>			        				 (495.72 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="e-book_guidelines/index.html" target="_blank">Guidelines on Publishing e-Book</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/deity-booklets">DeitY&#039;s Booklets</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Paper advertisement (1)_0.pdf" target="_blank">Display of advertisement for filling up of the post of JE(Civil) on deputation basis in DeitY</a>			        				 (268.91 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/rfp_fab_3rd_party_appraisal">RFP No. 28(8)/2013 for selection of Consultants for appriasal of DPRs regarding FAB Project</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Revised_SeriesGuideline.pdf" target="_blank">Revised Guidelines for Series Approval of Products for Implementation of CRO- phase II</a>			        				 (402.79 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/New_Gazette_Notification.pdf" target="_blank">Gazette Notification concerning expansion of list of items under CRO</a>			        				 (790.73 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/filling-various-positions-level-director-negd" target="_blank">Filling up of various positions at the level of Director* in NeGD (Last Date for receiving of application has been extended to 01.01.2015)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/AE(Civil)_advt.pdf" target="_blank">Filling up of one post of Assistant Engineer (Civil) in the DeitY on deputation/absorption basis - regarding</a>			        				 (290.39 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/walk-interview-recruiting-staff-contract-basis-india-internet-governance-forum-iigf">Walk in Interview for recruiting staff on Contract Basis for India Internet Governance Forum (IIGF) on 8.11.2014</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/posts_in_NACWC.pdf" target="_blank">Filling up the technical posts in National Authority, Chemical Weapons Convention, Cabinet Secretariat</a>			        				 (147.12 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Application_Development_Re-Engineering_Guidelines.pdf" target="_blank">Application Development &amp; Re-Engineering Guidelines</a>			        				 (1.17 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/internet-things" target="_blank">Comments/Suggestions on Internet of Things(IoT) Policy</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-vacancies" target="_blank">Application for the post of Executive Director, C-MET</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Brouchure_UNCEFACT17092014.pdf" target="_blank">24th UN/CEFACT Forum</a>			        				 (259.48 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/EoI Extension Notification_0.pdf" target="_blank">EoI Extension Notification</a>			        				 (163.56 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Additional_Clarification_0.pdf" target="_blank">Additional clarification to Queries on EoI for Surveillance under the Compulsory Registration Order</a>			        				 (94.21 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Surveillance_Registration_Order.pdf" target="_blank">Clarification to Queries on EoI for Surveillance under the Compulsory Registration Order</a>			        				 (115.15 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/NIELIT_COURSES.pdf" target="_blank">National Institute of Electronics and Information Technology (NIELIT) offers courses both in the Formal as well as the Non Formal sector of education</a>			        				 (278.49 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Digital India Presentation on DeitY website.pdf" target="_blank">Digital India&#039;s Presentation</a>			        				 (1.48 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/internship_guidlines_2014.pdf" target="_blank">Internship Guidelines,2014 of Department of Electronics &amp; Information Technology</a>			        				 (113.15 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Contribution to the Prime Minister.pdf" target="_blank">Prime Minister&#039;s National Relief Fund</a>			        				 (552.57 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/rfp-no-2882013-iphw-dated-11082014-selection-consulting-firm-3rd-party-appraisal-detailed-pr">RFP No. 28(8)/2013-IPHW dated 11.08.2014 for Selection of Consulting Firm for 3rd Party Appraisal of Detailed Project Reports to Set Up Semiconductor Wafer Fabrication Manufacturing Facilities</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/World_Skills_Competition_2015-with_new_date_extension.jpg" target="_blank">World Skill Competition 2015 - Extension of timelines for Registrations for the Regional Competition</a>			        				 (215.51 KB) <img src="/sites/upload_files/dit/files/images/icons/image-x-generic.png" class="field-icon-'.image/jpeg.'" alt="image/jpeg file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/sites/upload_files/dit/files/DPR_on_e-Kranti.pdf" target="_blank">Draft Detailed Project Report on ‘e-Kranti’</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Extension_Letter_Consulting Firm.pdf" target="_blank">Extension of Proposal Submission Date for Request for Proposal No. 28(8)/2013-IPHW dated 03.06.2014 for selection of Consulting Firm to set up Semiconductor Wafer Fabrication manufacturing facilities in India</a>			        				 (129.76 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/request-proposal-selection-law-frim-support-deity-set-semiconductor-wafer-fab-facilities-ind">Extension of Proposal Submission Date</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Corrigendum_ 27062014.pdf" target="_blank">Corrigendum-Extension of CEF Proposal Submission Date</a>			        				 (32.25 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.nwo.nl/en/funding/our-funding-instruments/ew/indo-dutch-joint-research-programme-for-ict/indo-dutch-joint-research-programme-for-ict.html" target="_blank">Indo-Dutch Collaboration for Research &amp; Innovation in IOT, Big Data &amp; Serious Gaming - Call for R&amp;D Proposals</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/CEF_RFP_Clarifications.pdf" target="_blank">Clarifications/ Corrigendum sought by agencies on Citizen Engagement RFP No_N-21013/1/2013-NeGD-09-June-2014.</a>			        				 (240.81 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/DEITY_press_release.pdf" target="_blank">PRESS NOTE: United Nations Public Service Award (2014) for India’s Mobile Governance Initiative (Mobile Seva)</a>			        				 (231.56 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/negd-semt-vacancies">NeGD-SeMT vacancies</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/rfp-selection-consultant-3rd-party-apparisal-dprs-set-semiconductor-fabs-india">Corrigendum/Clarifications regarding Request for Proposal for selection of Consultant for 3rd Party Apparisal of DPRs to set up Semiconductor Wafer Fab facilities in India</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/request-proposal-selection-law-frim-support-deity-set-semiconductor-wafer-fab-facilities-ind">Request for Proposal for selection of Law Firm for support to DeitY to set up Semiconductor Wafer FAB facilities in India</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/rfp-selection-agencies-creation-citizen-engagement-toolkit-sensitization-awareness-and-capac">RFP- Selection of Agencies for Creation of Citizen Engagement Toolkit &amp; Sensitization, Awareness and Capacity Building Workshops</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/filling-various-positions-negd" target="_blank">Filling up of various positions in NeGD</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/rfp-selection-consultant-3rd-party-apparisal-dprs-set-semiconductor-fabs-india">RFP for selection of Consultant for 3rd Party Apparisal of DPRs to set up Semiconductor Fabs in India</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/DEITY_press_release_unpsa_award_winner_mobileseva_2014__APPROVED.pdf" target="_blank">PRESS NOTE: United Nations Public Service Award (2014) for India’s Mobile Governance Initiative (Mobile Seva)</a>			        				 (245.15 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/final corrigendum-MLAsia.pdf" target="_blank">Independent Evaluation of Media Lab Asia- Request for Proposal (RFP)- corrigendum regarding</a>			        				 (478.91 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/cover_letter_for_timeline.pdf" target="_blank">Independent Evaluation of Media Lab Asia-request for Proposal-Revised</a>			        				 (60.53 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/vacancies-detail" target="_blank">Filling up of the post of Director General in National Informatics Centre</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Draft Independent Evaluation .pdf" target="_blank">Independent Evaluation of Media Lab Asia - RFP</a>			        				 (181.96 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.cdachyd.in/products/tot" target="_blank">Call for Expression of Interest for Transfer of Technology of End Point Security Products</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/workshop-new-e-gov-initiatives-deity-held-16th-april-2014">Workshop on New e-Gov initiatives of DeitY held on 16th April, 2014</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP - Modified_0.pdf" target="_blank">RFP for Selection of Human Resource Recruitment Agency</a>			        				 (93.57 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.cdactvm.in/dpha/" target="_blank">Technology for the production of Digital Programmable Hearing Aids (Body worn and Behind the ear type) for Transfer</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/electronic-materials-components-development-division" target="_blank">Technology on NTC fast response thermal sensors, Piezoceramic Compositions and Components for Transfer</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/request-proposal-rfp-selection-law-firm-legal-services-support-deity-and-government-india-se">Request for Proposal (RFP) for Selection of Law Firm for Legal Services for support to DeitY and Government of India to set up Semiconductor Wafer FAB facilities in India, March 2014</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/request-proposal-selection-consultant-3rd-party-appraisal-detailed-project-reports-set-semic">Request for Proposal for Selection of Consultant for 3rd Party Appraisal of Detailed Project Reports to Set Up Semiconductor Fabs In India, DeitY, March 2014</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP.pdf" target="_blank">REQUEST FOR PROPOSAL (RFP) for Selection of Human Resource Recruitment Agency for Hiring Manpower in NIXI</a>			        				 (91.56 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/govt-establishes-national-centre-good-governance">Govt establishes National Centre for Good Governance</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Notice_for_Medical_Examination .pdf" target="_blank">Medical Examination of candidates to be appointed as Scientist-D in Department of Electronics and Information Technology</a>			        				 (356.49 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Assistant Engineer-E.pdf" target="_blank">Filling up of one post of Assistant Engineer (Electrical) in the Department of Electronics &amp; Information Technology on deputation</a>			        				 (202.36 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Notice_3.pdf" target="_blank">Medical Examination of candidates to be appointed as Scientist-C in Department of Electronics and Information Technology.</a>			        				 (355 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.nielit.gov.in/vacancies.aspx" target="_blank">Engagement of Manpower in PROGRAMME MANAGEMENT UNIT(PMU), NIELIT</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/revised-eoi-no-152010-eg-i-voliii-13th-jan-2014-clarifications-queries-submitted-agencies">Revised EOI No. 1(5)/2010-EG-I Vol.III 13th Jan 2014 &amp; clarifications to the queries submitted by Agencies</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/dit.pdf" target="_blank">Filling up of one post of Joint Director(Hindi) on deputation basis in the Department of Electronics and Information Technology(DeitY)</a>			        				 (863.16 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/EoI For Assessment of eGovernance Projects 2014-17_.pdf" target="_blank">Expression of Interest: Empanelment of Agencies for Assessment of e-Governance Projects. Last date of EOI Submission- 07.02.2014 by 03.00 pm</a>			        				 (750.13 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Circular for post of Member (Judicial)_0.pdf" target="_blank">Filling up of post of Member (Judicial), Cyber Appellate Tribunal (CAT)</a>			        				 (84.28 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Circular for post of Chairperson, CAT_0.pdf" target="_blank">Filling up of the post of Chairperson, Cyber Appellate Tribunal (CAT)</a>			        				 (158.67 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/guidelines_final_vers3 (1)_0.pdf" target="_blank">Terms &amp; Conditions governing Grant-in-aid for funding R&amp;D Projects have been modified</a>			        				 (292.94 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Notice_0.pdf" target="_blank">Postponement of LDCE for promotion to the post of Section Officer in DeitY</a>			        				 (178.33 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Final_result_Sci-D.pdf" target="_blank">List of selected candidates for the post of Scientist-D in Department of Electronics and Information Technology (DeitY)</a>			        				 (125.54 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Promotion -PS .PDF" target="_blank">Admit Cards for LDCE 2011 and 2012 for promotion to the post of Private Secretary in DeitY</a>			        				 (172.44 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Offer_for_Sc._'C'.pdf" target="_blank">Offer of appointment to the post of Scientist &#039;C&#039; in the Department of Electronics and Information Technology</a>			        				 (732.44 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/email-policy" target="_blank">Email Policy</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/online-assessment-common-services-centres" target="_blank">Online assessment of Common Services Centres</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Final result Sc-C.pdf" target="_blank">List of selected candidates for the post of Scientist-C in Department of Electronics and Information Technology (DeitY)</a>			        				 (108.96 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Notice ME.pdf" target="_blank">Medical Examination of candidates for appointment to the post of Scientist-B in DeitY</a>			        				 (85.94 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://planningcommission.gov.in/plans/planrel/12thplan/welcome.html" target="_blank">Twelfth Five Year Plan (2012 - 2017)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/R&D_Form_0.pdf" target="_blank">Terms &amp; Conditions governing Grant-in-aid for funding R&amp;D Projects have been modified  ( reference : R&amp;D Funding Scheme and attached at the end of proforma)</a>			        				 (241.57 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/reminder-I.pdf" target="_blank">Response not recieved from 5 candidates for the post of Scientist-B</a>			        				 (770.38 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/inviting-nominations-next-batch-cio-e-governance-champions-programme" target="_blank">Inviting nominations for the next batch of the CIO e-Governance Champions Programme (eGCP) scheduled from 25th November to 21st December, 2013.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Sc_'D'.pdf" target="_blank">Letters for 2nd Stage Interview for the post of Scientist &#039;D&#039; scheduled for 7th November, 2013</a>			        				 (3.92 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Notice.pdf" target="_blank">The 2nd Stage Interview for the post of Scientist ‘D’ scheduled for 7th November 2013</a>			        				 (55.01 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.nielit.in/recruitment/pdf/STA_Result13.pdf" target="_blank">Final Result for the post of Scientific/Technical Assistant &#039;A&#039;</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/expression-interest-setting-semiconductor-wafer-fabrication-fab-facility-india" target="_blank">Extension of Last Date of Submission of EoI-Setting up of Semiconductor Wafer Fabrication (FAB) Manufacturing Facilities in India</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advertisement_MWS_DeitY website.pdf" target="_blank">Advertisement for the transfer of Technology developed by C-MET, Thrissur</a>			        				 (111.61 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/webqtnhta.pdf" target="_blank">Quotation for Empanelment of Translating Agency for executing the translation work of the Department-reg</a>			        				 (395 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/filling-various-senior-management-positions-negd" target="_blank">Filling up of various Senior Management positions in NeGD</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/offer-appointment-letters-post-scientist-b-department-electronics-and-information-technolog-0" target="_blank">Offer of appointment letters for the post of Scientist &#039;B&#039; in Department of Electronics and Information Technology</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.nielit.in/recruitment/pdf/ScientistBResult.pdf" target="_blank">Final Result for the post of Scientist -&#039;B&#039;</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/SC-D.pdf" target="_blank">Interview Call letters for 2nd Stage Interview for the post of Scientist &#039;D&#039;</a>			        				 (8.62 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Sc.'C'.pdf" target="_blank">Interview Call Letters for 2nd Stage Interview for the post of Scientist &#039;C&#039;</a>			        				 (22.34 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Report_CSC_Rural_Outreach_12-09-2013.pdf" target="_blank">Report on CSC rural Outreach Programme</a>			        				 (6.88 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/IDN_policy_August_2013_Final.pdf" target="_blank">.IN Internationalized Domain Names Policy Framework &amp; Implementation</a>			        				 (545.1 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Selected_candidates_for_Sci_B-2.pdf" target="_blank">List of selected candidates for the posts of Scientist &#039;B&#039; in Department of Electronics and Information Technology (DeitY)</a>			        				 (77.59 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/NeGP Training Calendar - November, 2013 (Vol I).pdf" target="_blank">Training Programmes Under NeGP Capacity Building November, 2013 (Vol I)</a>			        				 (764.21 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/list-shortlisted-candidates-2nd-stage-interview-post-scientist-c-d">The list of shortlisted candidates for 2nd Stage Interview for the post of Scientist &#039;C&#039; &amp; &#039;D&#039;</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/annexure-reply-parliament-question-0" target="_blank">Annexure to reply to Parliament Question</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/National_cyber_security_policy-2013_0.pdf" target="_blank">National Cyber Security Policy-2013 (NCSP-2013)</a>			        				 (291.85 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/National Cyber Security Policy (1)_0.pdf" target="_blank">Notification on National Cyber Security Policy -2013 (NCSP-2013)</a>			        				 (2.09 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/new-awareness-and-communication-scheme-0">New Awareness and Communication Scheme</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://nielit.in/recruitments.aspx" target="_blank">Result of Written Examination for the post of Scientist ‘B’ Conducted by NIELIT on 9th June, 2013 for DeitY, STQC and ICERT</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Press Release Aakash IV Specs_0.pdf" target="_blank">Press Release Aakash IV Technical Specifications</a>			        				 (347.83 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Proposed Aakash IV Technical Specifications_0.pdf" target="_blank">Proposed Aakash IV Technical Specifications</a>			        				 (636.65 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/e-governance-champions-programme-egcp-officers-e-panchayat-and-e-municipalities-mmps-commenc" target="_blank">e-Governance Champions Programme (eGCP) for officers from the e-Panchayat and e-Municipalities MMPs postponed till further notice.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/NIXI RFP for legal officer (1).pdf" target="_blank">Recruitment of Legal Officer for National Internet Exchange Of India , June 2013</a>			        				 (336.56 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/shri-kapil-sibal-launches-%E2%80%9Ce-gov-appstore%E2%80%9D" target="_blank">Hon&#039;ble MCIT launches “e-Gov Appstore”</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://pmindia.gov.in/report_to_people/2012-2013/report_PMO_English.pdf" target="_blank">Report to the People 2012-2013</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://pmindia.gov.in/ebook/2004-2013/ebook_PMO_English.pdf" target="_blank">E-Book 2004-2013</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/gi-cloud-initiative-meghraj" target="_blank">GI Cloud Initiative (Meghraj)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="content/first-batch-e-governance-executive-programme-egep-commences-1-july-2013" target="_blank">“The last date for sending nominations for the e-Governance Executive Programme extended to 10 June, 2013. Send in your nominations now!”</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/e-governance-champions-programme-e-gcp-health-mmp-commences-3-june-2013-2" target="_blank">e-Governance Champions Programme (e-GCP) Health MMP commences on 3 June, 2013.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/R&D_Framework_final.pdf" target="_blank">ICT&amp;E R&amp;D and Innovation Framework 2013</a>			        				 (243.04 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/joined_document.pdf" target="_blank">Images of inauguration of MANTRANA &amp; AAROGYA in DEITY.</a>			        				 (6.99 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advt pmu_0.pdf" target="_blank">An advertizement inviting applications for engagement of Consultants in ESDM-PMU of IPHW Division</a>			        				 (234.33 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://nixi.in/en/component/content/article/37-latest-news-a-events-/108-public-consultation-on-indian-registry-for-internet-names-and-number-policy" target="_blank">Public Consultation on National Internet Registry (NIR) Policy.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Clarification 79rules_1.pdf" target="_blank">Clarification on The Information Technology (Intermediary Guidelines) Rules, 2011</a>			        				 (45.8 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Notification26032013_0.pdf" target="_blank">Notification for extension of &quot;Electronics and IT Goods (Compulsory Registration Order), 2012</a>			        				 (133.5 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/recuritment.pdf" target="_blank">Conducting Limited Departmental Competitive Examinations for promotion in Deity</a>			        				 (1.22 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP_for_MobileSeva_for_TP_ver_1.2.pdf" target="_blank">MGOV: Revised Draft RFP for selecting Technology Partner for &quot;Mobile Service Delivery Gateway (MSDG) National Rollout&quot; (Mobile Governance/ Mobile Seva) open for public review (till 15-Mar-2013)</a>			        				 (457.8 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/hindi.pdf" target="_blank">List of Books awarded under National Award Scheme for Original Book writing in Hindi</a>			        				 (366.46 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/NIR-Invitation-programme-7th March-13.pdf" target="_blank">Launch of National Internet Registry (NIR) by Hon&#039;ble MCIT on 7th March,2013 at 1030 hrs at Vigyan Bhawan Annexe, New Delhi</a>			        				 (194.69 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://mgov.gov.in/msdp_draftrfp.jsp" target="_blank">MGOV: Revised Draft RFP for selecting Technology Partner for “Mobile Service Delivery Gateway (MSDG) National Rollout” (Mobile Governance/ Mobile Seva) open for public review (till 15-Mar-2013)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/FAQs R9_0.pdf" target="_blank">FAQ on &quot;Electronics and Information Technology Goods (Requirements for Compulsory Registration) Order, 2012&quot;</a>			        				 (64.39 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Model State ESD Rules.pdf" target="_blank">Model State ESD Rules</a>			        				 (771.68 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Guidelines for Series Formation (1).pdf" target="_blank">Guidelines for series Approval</a>			        				 (50.57 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Report of the Expert Committee on the HR Policy for eGovernance_0.pdf" target="_blank">Report of the Expert Committee on the HR Policy for eGovernance presented to hon&#039;ble MCIT on 21/01/13</a>			        				 (5.34 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advisoryonsection_0.pdf" target="_blank">Advisory to State/UT Govt.on implementation of Section 66A of the IT Act,2000</a>			        				 (386.68 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/third-meeting-state-it-secretaries-chaired-shri-kapil-sibal-honble-minister-communication-an" target="_blank">The Third meeting of the State IT Secretaries chaired by Hon&#039;ble Minister for Communication and Information Technology (MoCIT) was held on 11th Dec, 2012 at Room No 1007, DeitY, New Delhi</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/ePramaan_Framework.pdf" target="_blank">e-Pramaan : Framework for e-Authentication</a>			        				 (1.19 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Catchline For ESDM.pdf.pdf" target="_blank">Inviting inputs for Developing a Catch-line for ESDM sector; Date Extended till Nov 30, 2012</a>			        				 (47.76 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/WB-PDF Guidelines v4.pdf" target="_blank">Guidelines for Project Development Fund for World Bank assisted “India: e - Delivery of Public Services DPL Project”</a>			        				 (157.09 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/OM & Implementation Guidelines.pdf" target="_blank">Implementation Guidelines for the World Bank assisted &quot;India:e-Delivery of Public Services Project&quot;</a>			        				 (2.03 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/mcits-speechtalks-public-consultation" target="_blank">Speech of Hon’ble Minister for Communications and IT, GOI, at the IGF, Baku.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://mgov.gov.in/?q=node/42" target="_blank">MGOV: For public review -- Draft RFP for selecting Technology Partner for “Mobile Service Delivery Gateway (MSDG) National Rollout” under the Mobile Governance initiative of the Government</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/dit-vacancies" target="_blank">Filling up of the post of Director General Ernet India</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/national-information-technology-policy-2012" target="_blank">National Information Technology Policy 2012</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Catchline20For20ESDM.pdf" target="_blank">Inviting inputs for Developing a Catch-line for ESDM sector</a>			        				 (43.02 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/gazattes" target="_blank">Electronics &amp; Information Technology Goods (Requirements for Compulsory Registration) Order, 2012.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/M-SIPS Gazette Notification.pdf" target="_blank">Modified Special Incentive Package Scheme (M-SIPS) to offset disability and attract investment in Electronics Systems Design and Manufacturing (ESDM) Industries</a>			        				 (12.29 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://deity.gov.in/content/dit-vacancies" target="_blank">Notice regarding dispatch of interview call letters for recruitment of Sci. B in DeitY</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/ADVERTISEMENT FOR AWARD SCHEME IN PDF_1.pdf" target="_blank">National awards scheme for original books(in Hindi)</a>			        				 (482.5 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Gazette_Notification.pdf" target="_blank">Gazette Notification</a>			        				 (115.52 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Approved Social Media Framework and Guidelines _2_.pdf" target="_blank">Approved Social Media Framework and Guidelines</a>			        				 (543.67 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Approved Framework for Citizen Engagement in NeGP_0.pdf" target="_blank">Approved Framework for Citizen Engagement in NeGP</a>			        				 (416.97 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advisory_Intermediaries_0.pdf" target="_blank">Advisory For Intermediaries</a>			        				 (432.22 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://mit.gov.in/content/presentations" target="_blank">Presentations made during meeting of state/UT IT Secretaries on 24th July 2012</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP for Cloud Enablement Implementation in SDC-v05.22012.pdf" target="_blank">Draft RFP for Cloud Enablement in State Data Centres</a>			        				 (1.78 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/common-services-centers">RFP - Appointment of Manpower Agency (MPA) for National Population Register (NPR) Project in Rural Areas</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advertisement_20612.pdf" target="_blank">Award Scheme and advertisement for National Awards on e-Governance 2012-13</a>			        				 (495.72 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP_Apptmt_MPA__NPR_Project_Rural_Areas_14612.pdf" target="_blank">RFP-Appointment of Manpower Agency (MPA) for National Population Register (NPR) Project in Rural Areas</a>			        				 (451.98 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/e-district-guidelines">Integrated Framework for Delivery of e-District Services - e-District MMP National Rollout Guidelines</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Avertisement_COO-CSC_SPV_8612.pdf" target="_blank">CSC e-Governance Services India Limited Invited Application for the post of Chief Operation Officer (COO)</a>			        				 (8.85 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/e-district_manager">Letter from Additional Secretary e-Governance to State IT Secretaries regarding recruitment of e-District Managers for implementation of e-District in the various Districts</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Techadv31512.pdf" target="_blank">Inviting applications for ex-cadre posts of Branch Officer and Court Assistant in the Registry of the Suprime Court of India</a>			        				 (112.71 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/GPRH170512.pdf" target="_blank">CAPACITY BUILDING :: Specialized Training (STeP) : Government Process Reengineering (GPR) - Reading Supplement Handbook</a>			        				 (2.1 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/DC17052012.pdf" target="_blank">Filling up of various positions in SeMT (State e- Governance Mission Team) in 35 States and Union Territories.</a>			        				 (826.62 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/FDI_Circular_01_2012_0.pdf" target="_blank">Consolidated FDI Policy Circular - Circular 1 of 2012 - Department of Industrial Policy and Promotion</a>			        				 (1.19 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/divisional-workshop-negp-awareness-held-agra-uttar-pradesh">First Divisional Level Workshop on e-Governance: Agra, Uttar Pradesh,  25th April, 2012</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/e-Governance_Project_Lifecycle_Participant_Handbook-5Day_CourseV1_20412.pdf" target="_blank">CAPACITY BUILDING :: Specialized Training (STeP) : e-Governance Project Lifecycle - Reading Supplement Handbook</a>			        				 (4.25 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/e-district">Response to Pre-Bid queries for Selection of Consultancy Agencies For State Project Management Units in the various States and Union Territories for Roll-out of e-District MMP in the various States and Union Territories</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/minutes-meeting-empowered-committee-e-district-dated-29th-march-2012">Minutes of Meeting of Empowered Committee for e-District dated 29th March 2012</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/photographs">Photographs from 15th National Conference on e-Governance - Opening and Closing Ceremony</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr/mar12/final%20list%20of%20qualified%20and%20disqualified%20bidders.pdf" target="_blank">NPR: List of qualified and disqualified bidders in respect of bids submitted for selection of MSPs for demographic data digitization of the remaining 3 URBAN and 52 RURAL Zones</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr_info.html" target="_blank">NPR: Opening &amp; Evaluation of Financial Bids of Qualified Bidders for 3 Urban and 52 Rural Zones for Demographic Data Digitization :::: 22-Mar-2012, 11:30 AM, NIELIT Chandigarh Centre, Branch Office, New Delhi</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/use-ict-and-csc-disaster-management-0">Use of ICT and CSC in Disaster Management</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr/mar12/bids%20opening%20for%20data%20digitization.pdf" target="_blank">NPR: Opening of bids for data digitization in urban areas (3 zones) and rural areas(52 zones) on 12-March-2012 at 9:30 AM, NIELIT Chandigarh Centre, Branch Office, New Delhi</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advertisement_5312.pdf" target="_blank">Vacancies for Professionals in ESDM standards – PMU</a>			        				 (77.55 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/W8_2012_165_GAZETTE-NOTIFICATION-MGOV_2312.pdf" target="_blank">MGOV :::: GAZETTE OF INDIA NOTIFICATION ---- FRAMEWORK FOR MOBILE GOVERNANCE</a>			        				 (682.44 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr/feb12/advertisement%20for%20cancellation%20of%20biometric%20enrolment.pdf" target="_blank">NPR: CANCELLATION of RFQs for Selection of Managed Service Providers for Biometric Enrolment and LRUR Printing for 9 URBAN and 43 RURAL Zones</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr/feb12/Doeacc-9x6%2029022012.pdf" target="_blank">NPR: Bid Submission for Selection of Managed Service Providers for Biometric Enrolment and LRUR Printing for 9 URBAN and 43 RURAL Zones extended upto 29-Feb 2012 (1700 hours)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/webratna.pdf" target="_blank">Web Ratna Awards 2012 Nominations</a>			        				 (1.09 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/2(10)11.1.pdf" target="_blank">Department of Information Technology invites Sealed Item Rate Tenders for Renovation of area of e-Gov. Division (2013-2024) at Electronics Niketan</a>			        				 (607.33 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/2(35)11.1.pdf" target="_blank">Department of Information Technology invites sealed Item Rate Tenders for Renovation of area at 4th floor (4051-55) at Electronics Niketan</a>			        				 (598.65 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/rfp-e-district-mmp-state-project-management-unit-0">RFP e-District MMP State Project Management Unit</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://dipp.nic.in/English/Policies/FDI_Circular_02_2011.pdf" target="_blank">Consolidated FDI Policy - Department of Industrial Policy and  Promotion</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/department-information-technology-tableau">Department of Information Technology Tableaux in the Republic Day Parade</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr/jan12/corrigendum-25-01-2012%20for%20website.pdf" target="_blank">NPR: Last date for submission of bids for biometric enrolment (other than Chandigarh) extended to 8-Feb-2012, 1700 hours</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/rfp-standardization-model-rfps-and-guidance-notes">RFP Standardization : Model RFPs and Guidance Notes</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.nielit.in/pdf/final%20queries.pdf" target="_blank">NPR: Queries addressed in the pre-bid conference held on 11-Jan-2012</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="">MGOV :::: Framework For Mobile Governance</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/draft-rfp-e-district-mmp-empanelmen%E2%80%8Bt-oems-resellers-0">Draft RFP e-District MMP for Empanelmen​t of OEMs / Resellers</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr_info.html" target="_blank">NPR: Selection of Managed Service Providers for Demographic Data Digitization in remaining urban and rural areas (Advertisement, RFQs, and further details)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr_info.html" target="_blank">NPR: Selection of Managed Service Providers for Biometric Enrollments in CHANDIGARH (Advertisement, RFQs, and further details)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr_info.html" target="_blank">NPR: Selection of Managed Service Providers for Biometric Enrollments in remaining urban and rural areas (Advertisement, RFQs, and further details)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/SwanStatus_India_Map_March_2015.pdf" target="_blank">SWAN Implementation Status as on March 2015</a>			        				 (416.44 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/chief-information-officers-training-programme-begins-16th-january-2012-last-date-applying-31">Chief Information Officers Training Programme begins on 16th January, 2012 (Last Date for applying is 31st December, 2011)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/SAM_Guidelines_v03_22122011.pdf" target="_blank">Guidelines on Software Asset Management Version 0.3</a>			        				 (929.97 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="" target="_blank">Electronics e-Newsletter</a>			        				 ( bytes) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/octet-stream.'" alt="application/octet-stream file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Delivery_Public_Services_Project_20122011.pdf" target="_blank">World Bank Assisted &quot;India:e-delivery of Public Services Project&quot;</a>			        				 (7.44 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://sourceindia-electronics.com/Events.aspx?year=2011" target="_blank">Source India 2011-Electronics Supply Chain on 14-12-2011 at Chennai being organised by ELCINA</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://recruitment.nic.in/ditrecruitment/" target="_blank">Result of Written Examination held on 09.10.2011 for the posts of Scientist ‘B’</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://rcc.nic.in/npr_info.html" target="_blank">NPR: Selection of MSPs for Biometric Enrollments for National Population Register :: OPENING OF FINANCIAL BIDS on 25-Nov-2011 :: Urban Areas – 10 AM :: Rural Areas – 3PM :: Click for more info and list of qualified and disqualified bidders</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFPSelectionConsultancy_Agency_NPMU_for_NPR_project_inRuralAreas_24112011_0.pdf" target="_blank">Request for Proposal (RFP)  for Selection of Consultancy Agency for National PMU for NPR Project in Rural Areas</a>			        				 (444.55 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/compilation_comments_NCSPwebv2_18112011.pdf" target="_blank">Compilation of Comments on Discussion Draft on National Cyber Security Policy (Draft v1.0, 26 March 2011)</a>			        				 (791.5 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/data-centre">Information Security Implementation Guidelines for all SDCs</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/consultation-meeting-approach-and-implementation-roadmap-e-pramaan-framework-22-11-2011">Consultation meeting on the approach and implementation roadmap for e-Pramaan framework on 22-11-2011</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/guidelines-compliance-quality-and-security-requirements-e-procurement-systems">Guidelines for compliance to Quality and Security requirements of e-Procurement  Systems</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/expression-interest-state-pmu">Expression of Interest for State PMU</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.doeacc.edu.in/jsp/NPR.html" target="_blank">NPR: Selection of Managed Service Providers for Biometric Enrollments for Creation of National Population Register (NPR)::: RURAL BIDS to be opened at 9:00 AM, 9-Nov-2011:::: URBAN BIDS to be opened at 1:30 PM, 9-Nov-2011</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/NAG_Meeting_Agenda_31102011.pdf" target="_blank">Extended National e-Governance Advisory Group Meeting for National e-Governance Plan to be held on October 31, 2011 at Vigyan Bhawan</a>			        				 (146.7 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/draft-eoi-selection-consultancy-agency-state-program-management-units-e-district-project">Draft EOI for Selection of Consultancy Agency for the State Program Management Units for e-District Project</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/IPRAPEITS_24102011.pdf" target="_blank">Intellectual Property Rights Awareness Programme in E&amp;IT Sector</a>			        				 ( bytes) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.doeacc.edu.in/pdf/advrtforcorrigendum.pdf" target="_blank">NPR: Corrigendum for Selection of Managed Service Providers for Biometric Enrollments for Creation of National Population Register (NPR) in 18 States and UTs - LAST DATE FOR BID SUBMISSION EXTENDED UPTO 8-Nov-2011 1700 Hrs.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.doeacc.edu.in/pdf/corrigendum_biometric_rfq.pdf" target="_blank">NPR: Corrigendum for Selection of Managed Service Providers for Biometric Enrollments for Creation of National Population Register (NPR) in 18 States and UTs - CLARIFICATION OF SCOPE OF SERVICES -and- CORRECTION IN ONE ZONE NAME</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.doeacc.edu.in/pdf/replies_biometric_enrolment.pdf" target="_blank">NPR: Response to Pre-Bid Queries Regarding Request for Quotations (RFQs) for Selection of Managed Service Providers for Biometric Enrollments for Creation of National Population Register (NPR) in 18 States and UTs</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/public-consultation-2011">Public Consultation on Electronics, IT and Telecom Policies 2011</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-vacancies">Issue of Admit Cards for the Written Examination for the post of Scientist ‘B’ from Facilitation Counter (Reference this Department’s Advertisement No.2(14)/2009-Pers.I (Vol.III) dated 14.11.2010</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Tender_AP_2692011.pdf" target="_blank">Tender Call for Establishment of 1704 CSCs in Andhra Pradesh</a>			        				 (43.21 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr/venue2909.htm" target="_blank">NPR Pre-Bid Conference - Request for Quotation (RFQ) for Selection of Managed Service Providers for Biometric Enrollment Services for Creation of National Population Register (NPR) in 17 States and 1 UT</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://onlineexam.cdacnoida.in/OnlineExamination_DIT/DownloadCallLetter/DownloadCallLetter.swf" target="_blank">Download Call Letters for Scientist ‘C’ and Scientist ‘D’ scheduled for 14th to 16th October 2011</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-vacancies">Recruitment to S&amp;T posts in Department of Information Technology</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/technology-incubation-and-development-entrepreneurs">Application form: TIDE Scheme</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/multiplier-grants-scheme">Application form: Multiplier Grants Scheme</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://recruitment.nic.in/ditrecruitment/" target="_blank">Written Examination for Recruitment to the post of Scientist ‘B’, DIT.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="//doeaccchd.edu.in/npr/newdocrfq.htm" target="_blank">Request for Quotation (RFQ) for engaging MANAGED BIOMETRIC ENROLLMENT SERVICES for the creation of National Population Register (NPR) For Usual Residents OF URBAN and RURAL AREAS of 17 STATES AND 1 UT</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/vacancies-dit-pmu">Vacancies in DIT-PMU-ESDM</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/citizen-centric-e-government-state-e-governance-consultation-workshops">Citizen Centric e-Government: State e-Governance Consultation Workshops</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr/QUERIES%20RECEIVEDFormatted%20and%20final.pdf" target="_blank">Response to NPR Pre-Bid Queries - Request for Quotations (RFQs) for Selection of Managed Service Providers for Demographic Data Digitization for Creation of National Population Register (NPR) in 18 States and UTs</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/approach-paper-preparation-model-requests-proposals-rfps-toolkit-and-guidance-notes-preparat">Approach paper on Preparation of Model Requests for Proposals (RFPs), Toolkit and Guidance Notes for preparation of RFPs for E–Governance Projects</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.geospatialworld.net/index.php?option=com_interview&amp;int=1&amp;view=managetemplate&amp;id=208&amp;Itemid=644" target="_blank">Additional Secretary&#039;s (Shri Shankar Aggarwal) Interview in Geospatial World</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/DraftNeAF1911.pdf" target="_blank">Draft National e-Authentication Framework</a>			        				 (1.53 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.doeacc.edu.in/jsp/RFQ.html" target="_blank">NPR - Request for Quotation (RFQ): Selection of Managed Service Providers for Demographic Data Digitization for Creation of National Population Register (NPR) in 18 States and UTs</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/FinalBiopharmaPoster2_25811.pdf" target="_blank">BioPharm 2020: Bio Business Plan competition 2012</a>			        				 (3.85 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/PressNote_25811.pdf" target="_blank">Press Notes: Clarification on Rules Under Sections 43A and 79 of Information Technology Act, 2000</a>			        				 (1.05 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/draft-electronic-delivery-services-bill-2011">Draft Electronic Delivery of Services Bill, 2011</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-partnership-ncaer-organising-national-consultation-workshop-e-readiness-assessment-india">DIT in partnership with NCAER is organising National Consultation Workshop on e-Readiness Assessment of India being held at Imperial Hotel, New Delhi on 12th August, 2011</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFPCSC_SPV_PortalPREQ_8811_FINAL.pdf" target="_blank">Request for Proposal (RFP) for Business Partner Selection for CSC India Online Portal floated by CSC e Governance Services India Limited</a>			        				 (659.54 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/consultation-round-mobile-governance-policy-framework-external-stakeholders-12-july-2011-3-5">MGOV: 12-July-2011, 3:00 PM – Consultation Round on Mobile Governance Policy Framework with External Stakeholders</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/e-district">Office Memorandum on the subject of creation of DPR by states for Scheme for National Rollout of e-District MMP</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-tenders">Clarifications provided to prospective bidders in the Pre-Proposal meeting for shortlisting of Consulting Agency</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/pre-proposal-conference-eoi-shortlisting-consulting-agency">Pre- Proposal conference for EOI for Consultancy Agency for e-District MMP on 1st July at 15:00 hours Room no. 4009 DIT</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://egovstandards.gov.in/feedback_page?feedbackid=82" target="_blank">Draft Policy on Device Drivers for Procurement of Hardware for e-Governance: public review till 25th July 2011</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.doeacc.edu.in/jsp/advt_rielet_ajmer.htm" target="_blank">Notice inviting Expression of Interest (EoI) for Appointment of Project Management Consultant for setting up RIELIT, Ajmer</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-tenders">EOI for Consultancy Agency for providing Program Management Services for National PMU for Scheme for National Rollout of e-District  Mission Mode Project</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-tenders">Government of India Invites EoI for Setting Up of Semiconductor Fabs</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Advetisement_21611_0_0.pdf" target="_blank">15th National Conference on e-Governance: National Awards on e-Governance 2011-12</a>			        				 (1.34 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.elcina.com/" target="_blank">2nd Strategic Electronics Summit for Defence &amp; Aerospace (SES 2011) - HAL Convention Centre, Bengaluru, 29th June 2011</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/draft-e-district-guidelines">Draft e-district guidelines prepared, feedaback may be given by Monday, 13th June 2011 to abhishek AT gov.in</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://doeaccchd.edu.in/npr/npr-chd-adv.html" target="_blank">Bid Process for Engaging MANAGED SERVICE PROVIDER(s) for Demographic Data Digitization and Biometric Enrolment for the creation of NATIONAL POPULATION REGISTER (NPR) FOR USUAL RESIDENTS OF Chandigarh</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/MinutesofmeetingNationalRolloutofe-district2ndMay2011.pdf" target="_blank">Minutes of the Meeting of the Consultative Meeting regarding the National Rollout of e-District Project held on 2nd May 2011.</a>			        				 (86.13 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-tenders">Corrigendum II:The last date for submission of the EoI for Empanelment of Agencies for Implementing and Operating Citizen Contact Centres stands extended to 30th May 2011 up to 3 pm.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Press_Release_160511_0.pdf" target="_blank">TRAI Releases Recommendation on &quot; Telecom Equipment Manufacturing Policy&quot;</a>			        				 (93.06 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/india-country-workshop-may-16-2011-wsis-geneva">India Country Workshop on May 16, 2011 at WSIS, Geneva</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/WBText_1352011.pdf" target="_blank">Government of India and World Bank sign agreement for &quot;e-Delivery of Public Services Development Policy Loan&quot;</a>			        				 (60.86 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/E-district040511.pdf" target="_blank">Presentation delivered during the consultative meeting on the National Rollout of e-District Mission Mode Project</a>			        				 (1.93 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/PressRelease.pdf" target="_blank">Setting up of an Empowered Committee for identifying technology and investors for setting up of Semiconductor Wafer Fabrication (Fab) Manufacturing Facilities in the country.</a>			        				 (77.74 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Semiconductor06April11_020511.pdf" target="_blank">Study on Semiconductor Design, Embedded Software and Services Industry</a>			        				 (17.49 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/dit-tenders">Corrigendum I and response to the queries for Citizen Contact Center is attached.The last date for submission of the EoI stands extended to 23rd May 2011, 3pm</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Framework_for_Citizen_Engagement_in_NeGP1.0_0.pdf" target="_blank">Framework for Citizen Engagement in NeGP-Public reviews invited till May 20, 2011</a>			        				 (1.37 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/CCC_New_EOI_Final_13411.pdf" target="_blank">Expression of Interest for Empanelment of Implementing Agencies for Citizen Contact Centre</a>			        				 (358.04 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/RFP_Empanelment_TPA_SDC_13411.pdf" target="_blank">RFP for Empanelment of Additional Third Party Audit (TPA) Agencies for State Data Centre: Pre-Bid meeting will be held on 21st April, 2011 at 3:00 pm, Room No: 4009</a>			        				 (718.86 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/ncsp_060411.pdf" target="_blank">Discussion Draft on National Cyber Security Policy-Comments/Feedback Invited by 15th May to Dr. Gulshan Rai, DG, CERT-In AT grai AT mit.gov.in</a>			        				 (123.38 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Draft_Consultation_Paper_on_Mobile_Governance_110411.pdf" target="_blank">Draft Consultation Document on Mobile Governance–Stakeholders are requested to send comments by 5PM, 30-April-2011, through e-mail with subject line “Mobile Governance Framework: Comments” to mgov AT negp.gov.in</a>			        				 (1.24 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/semt110411_0.pdf" target="_blank">Filling up of various positions in SeMT in 35 States and Union Territories.</a>			        				 (614.95 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/AeGP230311.pdf" target="_blank">Agencies empaneled for assessment of e-Governance Projects 2010-12</a>			        				 (171.25 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/LDCE_040311.pdf" target="_blank">LDCE-2010 and 2009 for the Post of Section Officer</a>			        				 (59.37 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Task_Force_Report-new_21211_1.pdf" target="_blank">Task Force Report</a>			        				 (4.84 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Compendium_FINAL_Version_220211.pdf" target="_blank">Saaransh – A compendium of Mission Mode Projects under NeGP</a>			        				 (8.83 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://egovstandards.gov.in/Security_Controls_Implementation" target="_blank">Guidelines for Security Controls Implementation and Effectiveness Assessment put up for Public Review on egovstandards Website</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://egovstandards.gov.in/TechInteroperability" target="_blank">Technical Standards for Interoperability Framework for e-Governance in India (IFEG) - Phase-I  put up for Public Review on egovstandards Website</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/Expr_Intst_Emplmnt_Asmt_e-Gov_0.pdf" target="_blank">Expression of Interest for empanelment for Assessment of e-Governance Projects 2010-12 – last date extended to February 22nd, 2011</a>			        				 (488.87 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/LDCE.pdf" target="_blank">LDCE-2009 and 2010 for the Post of Section Officer</a>			        				 (1.34 MB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/EoIP_0.pdf" target="_blank">Expression of Interest For Broadband Connectivity in Bharat Nirman Common Services Centers</a>			        				 (62.76 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/gujarat-state-data-center-gsdc-under-negp-first-sdc-made-operational-formal-inaguration-will">Gujarat State Data Centre (GSDC) under NeGP is the first SDC made Operational. Formal inauguration will happen shortly.</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/draft-rfq-providing-managed-data-digitization-services-creation-npr-urban-areas">Draft RFQ for Providing Managed Data Digitization Services for the Creation of NPR in Urban Areas</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/draft-rfq-providing-managed-enrolment-services-creation-npr">Draft RFQ for Providing Managed Enrolment Services for the Creation of NPR in Rural Areas</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="sites/upload_files/dit/files/eboost_Dhanbad.pdf" target="_blank">e-boost to prison visits in Dhanbad</a>			        				 (20.63 KB) <img src="/sites/upload_files/dit/files/images/pdf_icon.gif" class="field-icon-'.application/pdf.'" alt="application/pdf file that opens in new window" />
+		       </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/enabling-nrega-payments-through-cscs-nagda-dhar-madhya-pradesh">Enabling Financial Inclusion through CSCs</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="content/commonwealth-express-exhibition-train" target="_blank">Commonwealth Express - Exhibition Train Takes Off</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="http://www.mit.gov.in/sites/upload_files/dit/files/secretary.mpg" target="_blank">Secretary IT Interview with futureGov</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/government-approves-framework-provision-basic-financial-services-through-mobile-phones">Government Approves Framework for provision of Basic Financial Services through Mobile Phones</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="content/archives-0" target="_blank">Archives (November 11 - June 14)</a>			        		      </li>
+
+	 
+    	
+      <li>
+        			        			        			        			        			        <a href="/content/archives">Archives (April 10 - October 11)</a>			        		      </li>
+
+	 
+      </ul>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> 
+		
+		</div>
+		</div>			
+		<!--main ends here--></div>
+		</div>
+		</div>
+		<!-- wrapper ends here -->
+		<!--footer starts here-->
+		<div id="footer">
+		
+		<ul>
+    <li><a href="/content/dmu-report-bharat-nirman-common-service-centers" title="DMU - Report">DMU - Report</a></li>
+	<li><a href="/content/e-book" title="e-Book">e-Book</a></li>
+	<li><a href="/content/website-policies" title="Website Policies">Website Policies</a></li>
+	<li><a href="/content/help" title="Help">Help</a></li>
+	<li><a href="/content/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+	<li><a href="/content/accessibility-statement" title="Accessibility Statement">Accessibility Statement</a></li>
+	<li><a href="/content/screen-reader-access" title="Screen Reader Access">Screen Reader</a></li>
+	<li><a href="/content/dit-vacancies" title="Vacancies">Vacancies</a></li>
+	<li><a href="/content/feedback" title="Feedback">Feedback</a></li>
+	<li><a href="/content/contact-us-0" title="Contact Us">Contact Us</a></li>
+	<li class="noborder"><a href="/sitemap" title="Sitemap">Sitemap</a></li>
+	
+</ul>
+		</div>
+				<div class="footertext"> <p>Content owned &amp; provided by Department Of Electronics &amp; Information Technology, Government Of India</p>
+			<div ><div id="block-block-2" class="clear-block block block-block">
+
+
+  <div class="content"><p><a target="_blank" href="/sites/upload_files/dit/files/cqw_certificate.pdf" title="Certificate Download::GIGW Certificate"><img src="/sites/upload_files/dit/files/wqc-img.png" alt="GIGW Certificate" /></a>&nbsp;&nbsp;<a target="_blank" href="http://india.gov.in/" title="http://india.gov.in, The National Portal of India : External website that opens in a new window"><img width="126" height="32" src="/sites/upload_files/dit/files/india-gov.jpg" alt="http://india.gov.in, The National Portal of India : External website that opens in a new window" /></a></p>
+</div>
+</div>
+</div>
+			<div id="block-counter-0" class="clear-block block block-counter">
+
+
+  <div class="content"><ul id="counter"><li>Site Counter: 4,373,458</li></ul></div>
+</div>
+
+		</div>	
+
+		
+					
+
+      <script type="text/javascript" src="/sites/deity.gov.in/themes/dit/js/jquery.js"></script>
+		 <!--<script type="text/javascript" src="/sites/deity.gov.in/themes/dit/js/jquery.lightbox.js"></script>-->
+		<script type="text/javascript" src="/sites/deity.gov.in/themes/dit/js/tabs.js"></script>
+		<script type="text/javascript"
+		src="/sites/deity.gov.in/themes/dit/js/swithcer.js"></script>
+		
+		<script type="text/javascript">
+		$(document).ready(function(){
+		
+			$("#main").css("font-size", getCookie("fontSize") + "%");
+	
+
+
+		 /*$(".lightbox").lightbox(); */
+		$("#menu-1393 a, #menu-1370 a").attr("target","_blank");
+		$('#menu-1365 > a').click(function(){return false;});
+		$('#menu-1393').click(function(){ alert('This link will only be available during office hours, Monday to Saturday 9:00 AM to 5:30 PM' )});
+		
+		
+		
+		
+		//Auto alt text
+		$('img[alt=""]').each(function(index){$(this).attr('alt', 'image_'+ index);});
+		// Automatic trim the long caption in table; greater then 150; 
+		$('table caption').each(function(){ if($(this).text().length > 149) { $old_cap = $(this).text(); $new_cap = $old_cap.substr(0, 149);  $(this).text($new_cap);}  });
+		//remove 'Average' label
+		//$('#edit-vote-wrapper label').removeAttr('for');
+		});
+		</script>	
+		
+		<script type="text/javascript">
+		$(document).ready(function(){
+		// Keyboard navigation
+		
+		});
+		</script>
+		
+		
+				<!--footer ends here-->
+		</body>
+		</html>
